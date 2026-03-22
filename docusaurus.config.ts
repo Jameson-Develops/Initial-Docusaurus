@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Initial Docusaurus',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Peanut butter kills my wife',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
