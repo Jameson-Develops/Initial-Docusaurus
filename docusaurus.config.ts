@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Initial Docusaurus',
-  tagline: 'Peanut butter kills my wife',
+  title: 'This is How we Build it',
+  tagline: 'Its Friday night and I feel all right',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -75,9 +75,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'This is How we Build it',
       logo: {
-        alt: 'My Site Logo',
+        alt: '',
         src: 'img/logo.svg',
       },
       items: [
