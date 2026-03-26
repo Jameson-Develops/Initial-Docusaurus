@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Another Day Another Change
 ---
 
 # Markdown page example
 
-You don't need React to write simple standalone pages.
+There's really nothing you can't do, so long as you commit yourself to taking action. Action is the key to progress; for no great plan borne from progressing passion was ever made real without taking action.

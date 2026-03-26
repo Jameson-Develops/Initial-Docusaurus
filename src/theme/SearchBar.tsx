@@ -12,4 +12,3 @@ export default function SearchBarWrapper(props: Props): ReactNode {
     </>
   );
 }
-
