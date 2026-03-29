@@ -5,7 +5,7 @@ authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
 
-::: 
+
 I've always been inherently good at most things. 
 
 When I was young, my father left our family. My brothers moved out shortly thereafter and I was left man of the house at the ripe old age of 16. I learned early on that for my mother, failure wasn't an option. 
@@ -16,14 +16,14 @@ When I stood up, my eyes brimmed with tears. Not only was I just squarely socked
 
 I learned everything wrong about failure.
 
-See, the thing that Bev didn't understand was how to teach her growing child how to build a healthy relationship with anyone or anything let alone how to build one with failure. Now that I'm working on a homelab of all things, I'm realizing how skewed my view of failure has been. Failure isn't something to fear. Fear is paralyzing. Failure is a tool to urge you on to something greater! Failure is an outcome of trying, and so often people try then fail then quit. One of my favorites: When asked about his progress with lightbulbs and his failures with the same, Thomas Edison would tell reporters he hasn't failed, he's learned "1,000 ways not to make a light bulb." The entire process is meant to further learning, not to reach the goal. If everything were done the first try, we'd be much farther along as a society. Failure isn't an endpoint. It's a vital and valuable part of the process. 
-:::
+See, the thing that Bev didn't understand was how to teach her growing child how to build a healthy relationship with anyone or anything let alone how to build one with failure. Now that I'm working on a homelab of all things, I'm realizing how skewed my view of failure has been. Failure isn't something to fear. Fear is paralyzing. Failure is a tool to urge you on to something greater! Failure is an outcome of trying, and so often people try then fail then quit. One of my favorites: When asked about his progress with lightbulbs and his failures with the same, Thomas Edison would tell reporters he hasn't failed, he's learned "1,000 ways not to make a light bulb." The entire process is meant to further learning, not to reach the goal. If everything were done perfectly the first try, we'd be much farther along as a society. 
+
+Failure isn't an endpoint. It's a vital and valuable part of any process. I'm learning the true value of failure and I encourage you to do the same.
+
 
 
 <!-- truncate -->
 
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
-
 ```ts
-print("Hello World!")
+print("Hello Mom. You failed me.")
 ```
