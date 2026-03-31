@@ -1,13 +1,13 @@
 yangshun:
-  name: Monson Jameson
-  title: Guy that learns stuff
-  url: https://linkedin.com/in/jameson-monson-67730ab4
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: #no account
-    linkedin: Jameson Monson
-    github: Jameson-Develops
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
     newsletter: https://www.greatfrontend.com
 
 slorber:
