@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: Why Failure is Key to Learning
-authors: [slorber, yangshun]
+authors: [Monson]
 tags: [hola, docusaurus]
 ---
 
